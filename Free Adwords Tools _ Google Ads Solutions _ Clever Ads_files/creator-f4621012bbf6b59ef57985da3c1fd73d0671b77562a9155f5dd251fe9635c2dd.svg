@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="93px" viewBox="0 0 51 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>sketch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-4" transform="translate(-273.000000, -1776.000000)" fill-rule="nonzero">
+            <g id="Group-30" transform="translate(110.000000, 1729.000000)">
+                <g id="Group-28" transform="translate(0.000000, -0.000000)">
+                    <g id="Group-31" transform="translate(6.000000, 44.000000)">
+                        <g id="Group-10">
+                            <g id="sketch" transform="translate(189.000000, 48.200617) rotate(15.000000) translate(-189.000000, -48.200617) translate(168.000000, 3.975309)">
+                                <rect id="Rectangle" fill="#2FCC71" x="16.1754" y="2.44839259" width="9.4041" height="12.4614"></rect>
+                                <g id="Group" transform="translate(0.300000, 44.424074)" fill="#3498DA">
+                                    <polygon id="Path" points="0.2019 43.3847296 4.9041 43.3847296 20.5776 0.0813944444 9.606 0.0813944444"></polygon>
+                                    <polygon id="Path" points="40.953 43.3847296 36.2511 43.3847296 20.5776 0.0813944444 31.5489 0.0813944444"></polygon>
+                                </g>
+                                <ellipse id="Oval" fill="#FFFFFF" cx="20.8776" cy="33.6018926" rx="10.9713" ry="10.9035759"></ellipse>
+                                <ellipse id="Oval" fill="#2FCC71" cx="20.8776" cy="33.6018926" rx="3.9183" ry="3.89411296"></ellipse>
+                                <path d="M20.8776,46.8420556 C28.2237,46.8420556 34.2,40.9026463 34.2,33.6018926 C34.2,27.0989833 29.4567,21.6795444 23.2287,20.5722222 L23.2287,17.2463796 L27.9306,17.2463796 L27.9306,0.112103704 L13.8246,0.112103704 L13.8246,17.2463796 L18.5265,17.2463796 L18.5265,20.5722222 C12.2985,21.6795444 7.5552,27.0986852 7.5552,33.6018926 C7.5552,40.9026463 13.5315,46.8420556 20.8776,46.8420556 Z M18.5265,4.78497963 L23.2284,4.78497963 L23.2284,12.5732056 L18.5265,12.5732056 L18.5265,4.78497963 Z M20.8776,25.0346056 C25.6311,25.0346056 29.4981,28.8777352 29.4981,33.6018926 C29.4981,38.32605 25.6311,42.1691796 20.8776,42.1691796 C16.1241,42.1691796 12.2571,38.32605 12.2571,33.6018926 C12.2571,28.8777352 16.1241,25.0346056 20.8776,25.0346056 Z" id="Shape" fill="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
